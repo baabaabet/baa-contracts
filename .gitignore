@@ -1,0 +1,16 @@
+# Compiler files
+forge-cache/
+cache-hardhat/
+typechain-types/
+out/
+artifacts/
+
+# Ignores development broadcast logs
+!/broadcast
+/broadcast/*/31337/
+/broadcast/**/dry-run/
+
+# Dotenv file
+.env
+.idea
+node_modules
