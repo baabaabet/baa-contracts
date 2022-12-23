@@ -18,10 +18,10 @@ Starting from the launch of BaaBaaBet, during a period of 365 days, for every va
 
 | Contract      | Address     | 
 | ---------- | :-----------:  | 
-| Baa Baa pair Manager      | 0xbFD20f20f0Fb5D5a54d5Cec39AE981aACeeE121C     | 
-| Baa Baa Dao Token      | 0xAaf65F24346302d30CBff1F4b8ed17E56960f005     | 
+| Baa Baa pair Manager  | 0xbFD20f20f0Fb5D5a54d5Cec39AE981aACeeE121C     | 
+| Baa Baa Dao Token  | 0xAaf65F24346302d30CBff1F4b8ed17E56960f005     | 
 | Baa Baa Base    | 0x7c9AC07E1742d64626d52CFD79218040D9d5De90     | 
 | Baa Baa Sheep  | 0xfD5bD7d8c6A4336017EA700593b879ebd6F5aE69     | 
 | BaaBaaGuess  | 0x960885b43017C7B413E33dBD923812960D1bF011     | 
-| BaaBaaEvents  |     - 0x09B9FDaE3000bC5AEbAaD4b5619f0D4E14293856     | 
+| BaaBaaEvents  | 0x09B9FDaE3000bC5AEbAaD4b5619f0D4E14293856     | 
 
